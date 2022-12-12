@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-03T17:41:22 EET" name="Default suite" finished-at="2022-06-03T17:42:04 EET" duration-ms="42354">
+    <groups>
+    </groups>
+    <test started-at="2022-06-03T17:41:22 EET" name="Default test" finished-at="2022-06-03T17:42:04 EET" duration-ms="42354">
+      <class name="start">
+        <test-method is-config="true" signature="Start()[pri:0, instance:start@4562e04d]" started-at="2022-06-03T17:41:22 EET" name="Start" finished-at="2022-06-03T17:41:30 EET" duration-ms="7754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method signature="Signin()[pri:1, instance:start@4562e04d]" started-at="2022-06-03T17:41:30 EET" name="Signin" finished-at="2022-06-03T17:41:31 EET" duration-ms="1690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method signature="valid()[pri:2, instance:start@4562e04d]" started-at="2022-06-03T17:41:31 EET" name="valid" finished-at="2022-06-03T17:41:32 EET" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid -->
+        <test-method signature="Regiset()[pri:3, instance:start@4562e04d]" started-at="2022-06-03T17:41:32 EET" name="Regiset" finished-at="2022-06-03T17:41:41 EET" duration-ms="8671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Regiset -->
+        <test-method signature="search()[pri:4, instance:start@4562e04d]" started-at="2022-06-03T17:41:41 EET" name="search" finished-at="2022-06-03T17:41:43 EET" duration-ms="1862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="buyitem()[pri:5, instance:start@4562e04d]" started-at="2022-06-03T17:41:43 EET" name="buyitem" finished-at="2022-06-03T17:42:04 EET" duration-ms="20905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyitem -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:start@4562e04d]" started-at="2022-06-03T17:42:04 EET" name="closeDriver" finished-at="2022-06-03T17:42:04 EET" duration-ms="604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- start -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
